@@ -1,6 +1,8 @@
 # hmc_hammerstein-wiener_systems
 HMC for Hammerstein-Wiener Models.
 
+This repository uses git-lfs for the results files.
+
 Use Python <= 3.10
 
 All required packages in ```requirements.txt```.
