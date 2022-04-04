@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pystan<2.19
+scipy
+seaborn
