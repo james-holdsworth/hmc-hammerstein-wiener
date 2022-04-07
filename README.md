@@ -3,7 +3,7 @@ HMC for Hammerstein-Wiener Models.
 
 This repository uses git-lfs for the results files.
 
-Use Python <= 3.10
+Use Python <= 3.10, >=3.7
 
 All required packages in ```requirements.txt```.
 
